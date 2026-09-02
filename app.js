@@ -1,6 +1,6 @@
 // 1) Despliega el Apps Script como Web App.
 // 2) Copia la URL /exec y pégala aquí.
-const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbw8gVzmw_c450nTwcYOJxUGgmq6DA0-uxXEWDbmkgd2xK8HR0NLWWHKB39_jFVi1QZR/exec';
+const WEB_APP_URL = 'PEGAR_AQUI_URL_DE_APPS_SCRIPT';
 
 const state = {
   locales: [],
